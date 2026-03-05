@@ -479,7 +479,7 @@ footer span{color:var(--green-xl)}
 
 <!-- NAV -->
 <nav>
-  <a href="#hero" class="nav-brand">Gourang<span>.</span></a>
+  <a href="#hero" class="nav-brand">Gourang Chauhan<span>.</span></a>
   <div class="nav-menu">
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
